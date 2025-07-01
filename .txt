@@ -1,0 +1,6 @@
+TO DO:
+- [ ] fazer o indice
+- [ ] mostrar os livros
+- [ ] escolher a lingua
+- [ ] escolher a tradução da biblia
+- [ ] versiculo do dia, palavra do dia, salmo do dia, devocional diario

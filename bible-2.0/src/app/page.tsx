@@ -1,7 +1,11 @@
+import Link from 'next/link'
+
 export default function Home() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <button>
+        <Link href="/indice">Indice</Link>
+      </button>
     </div>
   );
 }
